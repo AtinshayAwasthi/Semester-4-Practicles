@@ -26,23 +26,23 @@ Git commits are snapshots of a project's files at specific moments, each identif
 
 ### Content
 
-#### Binary Search
+[Binary Search](https://github.com/AtinshayAwasthi/Semester-4-Practicles/blob/main/DesignAnalysisAlgorithm%20Practicals/Experiment-1/Experiment-1.txt)
 
 Binary search is an efficient algorithm used to find a target value within a sorted array or list. It works by repeatedly dividing the search interval in half, eliminating half of the remaining elements each time based on whether the target value is greater or lesser than the middle element. This process continues until the target value is found or the search interval is empty. Binary search has a time complexity of O(log n), where n is the number of elements in the array. This logarithmic time complexity makes it significantly faster than linear search algorithms, especially for large datasets, as it quickly narrows down the search space with each iteration. However, it requires that the array be sorted beforehand, which can add time complexity of O(n log n) if sorting is necessary, though this sorting can often be done separately from the binary search itself.
 
-#### Quick Sort
+[Quick Sort](https://github.com/AtinshayAwasthi/Semester-4-Practicles/blob/main/DesignAnalysisAlgorithm%20Practicals/Experiment-2/Experiment-2.txt)
 
 Quick sort is a sorting algorithm that follows the divide and conquer strategy. It selects a pivot element, partitions the array into two sub-arrays around the pivot (one with elements less than the pivot and the other with elements greater), and recursively sorts the sub-arrays. It has an average time complexity of O(n log n), making it efficient for large datasets. However, its worst-case time complexity is O(n^2) if poorly chosen pivots, such as the first or last element, consistently lead to unbalanced partitions.
 
-#### Strassen Matrix
+[Strassen Matrix](https://github.com/AtinshayAwasthi/Semester-4-Practicles/blob/main/DesignAnalysisAlgorithm%20Practicals/Experiment-3/Experiment-3.txt)
 
 Strassen's algorithm is a method for multiplying matrices that reduces the number of arithmetic operations needed compared to the standard matrix multiplication algorithm. It accomplishes this by recursively breaking down the matrices into smaller submatrices and using clever combinations of additions and subtractions to compute the result. Strassen's algorithm has a time complexity of approximately O(n^2.81), which is an improvement over the standard O(n^3) complexity for large matrices. However, it has higher constant factors and overhead due to its recursive nature, so it may not always outperform the standard algorithm for smaller matrix sizes.
 
-#### Kruskal’s Algorithm
+[Kruskal’s Algorithm](https://github.com/AtinshayAwasthi/Semester-4-Practicles/blob/main/DesignAnalysisAlgorithm%20Practicals/Experiment-4/Experiment-4.txt)
 
 Kruskal's algorithm is a greedy algorithm used to find the minimum spanning tree (MST) of a connected, undirected graph. It works by sorting the edges of the graph by their weights and then adding them to the MST one by one in increasing order of weight while ensuring that no cycles are formed. This is achieved by maintaining disjoint sets of vertices and including an edge in the MST only if it connects two disjoint sets. Kruskal's algorithm has a time complexity of O(E log E), where E is the number of edges in the graph, primarily due to the sorting step.
 
-#### Job Sequencing
+[Job Sequencing](https://github.com/AtinshayAwasthi/Semester-4-Practicles/blob/main/DesignAnalysisAlgorithm%20Practicals/Experiment-5/Experiment-5.txt)
 
 Job sequencing is a problem in combinatorial optimization where a set of jobs with associated deadlines and profits are to be scheduled for execution on a single machine to maximize the total profit earned. The objective is to select a subset of jobs that can be completed within their deadlines while maximizing the total profit. This problem is typically solved using greedy algorithms such as the earliest deadline first (EDF) or highest profit first (HPF), with time complexity depending on the chosen approach.
 
