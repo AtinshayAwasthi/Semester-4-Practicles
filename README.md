@@ -50,18 +50,18 @@ Job sequencing is a problem in combinatorial optimization where a set of jobs wi
 
 ### Content
 
-#### Agile Development
+[Agile Development](https://github.com/AtinshayAwasthi/Semester-4-Practicles/blob/main/Agile-Practices%20Practicals/agile%201.pdf)
 
 Agile Development is an iterative and incremental approach to software development. It prioritizes collaboration, flexibility, and customer feedback. Common practices include Scrum, Kanban, and continuous delivery.
 
-#### JUnit Testing
+[JUnit Testing](https://github.com/AtinshayAwasthi/Semester-4-Practicles/blob/main/Agile-Practices%20Practicals/agile2.pdf)
 
 JUnit is a widely-used testing framework for Java that supports unit testing. It provides annotations for identifying test methods and assertions to validate expected outcomes. Automated testing is crucial for maintaining code quality and catching regressions.
 
-#### Testing Using Selenium
+[Testing Using Selenium](https://github.com/AtinshayAwasthi/Semester-4-Practicles/blob/main/Agile-Practices%20Practicals/agile3.pdf)
 
 Selenium is a popular tool for automating web browser interactions, commonly used for web application testing. It enables the simulation of user actions and the verification of expected behaviors.
 
-#### Extreme Programming Scenario
+[Extreme Programming Scenario]()
 
 Extreme Programming (XP) is a software development methodology emphasizing rapid delivery, flexibility, and customer satisfaction. In an Xtreme Programming scenario, developers work closely with customers, employing practices like pair programming, continuous integration, and frequent releases to ensure high-quality software.
